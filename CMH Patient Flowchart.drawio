@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T10:03:56.343Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="-jy8t0ixeefwQa6QBKt_" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T10:10:27.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="o35NIN5rfMgWJI8f0zsl" version="13.5.3" type="github">
   <diagram id="zhktbUTJ-xe0_NIlt0AP" name="Page-1">
     <mxGraphModel dx="1358" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,11 +46,11 @@
             <mxPoint x="185" y="325" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rtASI6w7ON3c2O2H3D7b-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="TkK533PQzBmlbEGzrgbe-1" target="rtASI6w7ON3c2O2H3D7b-1">
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.517;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkK533PQzBmlbEGzrgbe-1" target="rtASI6w7ON3c2O2H3D7b-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TkK533PQzBmlbEGzrgbe-1" value="OPD Invoice" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="125" y="345" width="120" height="40" as="geometry" />
+          <mxGeometry x="125" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="TkK533PQzBmlbEGzrgbe-3" target="rtASI6w7ON3c2O2H3D7b-11">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-1" value="Doctor Consultation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="125" y="415" width="120" height="40" as="geometry" />
+          <mxGeometry x="125" y="417" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-3" value="Patient Exit" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="290" y="610" width="70" height="38" as="geometry" />
@@ -135,9 +135,6 @@
         <mxCell id="rtASI6w7ON3c2O2H3D7b-20" value="Schedule Admission from Patient Encounter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="590" y="195" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="rtASI6w7ON3c2O2H3D7b-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-33" target="rtASI6w7ON3c2O2H3D7b-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-21" value="Admit from InPatient Record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="590" y="258" width="130" height="35" as="geometry" />
         </mxCell>
@@ -160,13 +157,16 @@
             <mxPoint x="-10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rtASI6w7ON3c2O2H3D7b-41" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-32" target="rtASI6w7ON3c2O2H3D7b-37">
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-41" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-32" target="rtASI6w7ON3c2O2H3D7b-43">
           <mxGeometry x="-0.3333" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-32" value="Discharge &lt;br&gt;Scheduled&amp;nbsp;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.508;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-33" target="rtASI6w7ON3c2O2H3D7b-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-33" value="InPatient Record" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="590" y="317.5" width="130" height="40" as="geometry" />
@@ -181,16 +181,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-37" value="Final Billing from Billing sheet at Registration Counter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="575" y="530" width="160" height="40" as="geometry" />
+          <mxGeometry x="575" y="580" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.508;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-38" target="rtASI6w7ON3c2O2H3D7b-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-38" value="Final Invoice" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="590" y="590" width="130" height="40" as="geometry" />
+          <mxGeometry x="590" y="660" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rtASI6w7ON3c2O2H3D7b-43" value="Schedule Discharge from InPatient Encounter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="575" y="648" width="160" height="40" as="geometry" />
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-43" target="rtASI6w7ON3c2O2H3D7b-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rtASI6w7ON3c2O2H3D7b-44" value="Discharge from InPatient Record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="575" y="710" width="160" height="40" as="geometry" />
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-43" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Create InPatient Encounter &amp;amp; Schedule Discharge&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="575" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-44" target="rtASI6w7ON3c2O2H3D7b-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-44" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Discharge from InPatient Record with Summary &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="575" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-48" target="rtASI6w7ON3c2O2H3D7b-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-48" value="Discharge Summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="590" y="780" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
