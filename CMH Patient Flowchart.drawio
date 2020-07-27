@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T10:35:04.654Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="8g-hzDVDTw4c97BZ-ScN" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T10:35:33.315Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Nm94GQRJd6noQuE7xRku" version="13.5.3" type="github">
   <diagram id="zhktbUTJ-xe0_NIlt0AP" name="Page-1">
     <mxGraphModel dx="1358" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,13 +65,13 @@
           <mxGeometry x="80" y="458.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-3" value="Patient Exit" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="235" y="640" width="70" height="38" as="geometry" />
+          <mxGeometry x="285" y="630" width="70" height="38" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-4" target="rtASI6w7ON3c2O2H3D7b-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-4" value="Goto Pharmacy with prescription" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="210" y="580" width="120" height="30" as="geometry" />
+          <mxGeometry x="260" y="580" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rtASI6w7ON3c2O2H3D7b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-6" target="rtASI6w7ON3c2O2H3D7b-4">
           <mxGeometry relative="1" as="geometry">
@@ -204,10 +204,11 @@
         <mxCell id="rtASI6w7ON3c2O2H3D7b-44" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Discharge from InPatient Record with Summary &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="650" y="394" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rtASI6w7ON3c2O2H3D7b-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-48" target="rtASI6w7ON3c2O2H3D7b-3">
+        <mxCell id="rtASI6w7ON3c2O2H3D7b-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="rtASI6w7ON3c2O2H3D7b-48">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="649" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="730" y="659" />
+              <mxPoint x="730" y="649" />
             </Array>
           </mxGeometry>
         </mxCell>
